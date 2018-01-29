@@ -8,8 +8,8 @@
     "Simulation": {
         "InitialState": {
             "online": true,
-            "latitude": 47.25433,
-            "longitude": -121.177075,
+            "Latitude": 42.966726,
+            "Longitude": -0.716858,
             "speed": 30.0,
             "speed_unit": "mph",
             "cargotemperature": 49.0,
@@ -24,8 +24,8 @@
     "Properties": {
         "Type": "Truck",
         "Location": "Field",
-        "Latitude": 47.25433,
-        "Longitude": -121.177075
+        "Latitude": 43.966726,
+        "Longitude": -0.716858
     },
     "Telemetry": [
         {

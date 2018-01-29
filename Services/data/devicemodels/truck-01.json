@@ -8,8 +8,8 @@
     "Simulation": {
         "InitialState": {
             "online": true,
-            "latitude": 47.445301,
-            "longitude": -122.296307,
+            "Latitude": 44.766726,
+            "Longitude": -0.916858,
             "speed": 30.0,
             "speed_unit": "mph",
             "cargotemperature": 38.0,

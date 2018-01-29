@@ -23,8 +23,8 @@
     "Properties": {
         "Type": "Elevator",
         "Location": "Building 17",
-        "Latitude": 47.643786,
-        "Longitude": -122.128047
+        "Latitude": 43.896726,
+        "Longitude": -0.766858
     },
     "Telemetry": [
         {
